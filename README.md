@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1v4nb0r4k0v3
+- 👋 Hi, I’m @1v4nb0r4k0v3 or @srvaldomirooliveira
 
 - 👀 I’m interested in DevSecOps e AppSec, Pentest, Bug Hunter, Python, Shell Scripts and Coffee.
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:
     
-    E-mail: mr.oliveiravaldomiro@gmail.com | 
+    E-mail: mr.oliveiravaldomiro@gmail.com
 
     LinkedIn: @srvaldomirooliveira
 
